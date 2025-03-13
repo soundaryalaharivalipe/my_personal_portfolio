@@ -2,7 +2,6 @@ import { memo } from "react";
 import {
   Container,
   Grid,
-  Typography,
   makeStyles,
   createStyles,
   Theme,
