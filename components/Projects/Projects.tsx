@@ -1,9 +1,9 @@
 import { memo } from "react";
 import Project from "./Project";
 
-import { ProjectType } from "lib/projects";
+import { ProjectConfig } from "lib/projects";
 
-function Projects({ projects }: { projects: ProjectType[] }) {
+function Projects({ projects }: { projects: ProjectConfig[] }) {
   const renderProjects = () => {
     return projects.map(
       ({ title, description, images, stack, links, special }, index) => {

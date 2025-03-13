@@ -1,7 +1,6 @@
 import { memo } from "react";
 import { motion } from "framer-motion";
 import Head from "next/head";
-import { Typography, Container } from "@material-ui/core";
 
 import Header from "components/Header";
 import Footer from "components/Footer";

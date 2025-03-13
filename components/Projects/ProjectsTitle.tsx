@@ -3,7 +3,6 @@ import {
   Toolbar,
   Container,
   useTheme,
-  useMediaQuery,
 } from "@material-ui/core";
 
 function Title({ text }: { text: string }) {
