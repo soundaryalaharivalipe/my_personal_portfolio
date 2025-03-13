@@ -14,7 +14,7 @@ import HeaderText from "./HeaderText";
 function Header() {
   const darkMode = useDarkMode();
 
-  const useStyles = makeStyles((theme: Theme) =>
+  const useStyles = makeStyles(() =>
     createStyles({
       root: {
         minHeight: "100vh",
