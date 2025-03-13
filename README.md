@@ -4,6 +4,7 @@
 
 <h2>Live Site</h2>
 https://soundarya-lahari-valipe-personal-portfolio.vercel.app
+
 ---
 
 ## Motive
@@ -21,12 +22,6 @@ The motive of this project is to showcase my current and future projects.
 - **SEO** Appears as 1st or 2nd result when searching Bhavya Tomar on duckduckgo and bing, 1st or 2nd page on google.
 - **Responsive** for all screen sizes
 - Animations added using **react-spring** and **framer-motion**
-
----
-
-## Lighthouse performance
-
-<img src="/public/project/portfolio/main.png" alt="lighthouse performance">
 
 ---
 
