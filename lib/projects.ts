@@ -253,31 +253,23 @@ const projects: Projects = {
     technologies: [],
   },
   urlShortener: {
-    title: "URL shortener",
+    title: "Resume Classification System using NLP",
     description: [
-      "As the title suggests, the app can be used to shorten urls that can be shared with anyone on the internet.",
-      "A **QR code** is also generated when submitting a URL that can be scanned to redirect to the original URL.",
-      "The frontend is built using **React** with **Material-UI** for styling.",
-      "The backend is build with **Node.js** with **Express.js** framework along with **MongoDB** database to store the URLs."
+      "The Resume Classification System is an automated tool designed to categorize resumes into pre-defined job domain classes like Data Science, Web Designing, and others. This project utilizes advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, including K-Nearest Neighbors (KNN), Convolutional Neural Networks (CNN), and DistilBERT, to streamline the recruitment process by efficiently sorting through large volumes of resumes."
     ],
     images: {
       main: {
-        link: "/project/url-short/main.png",
+        link: "/project/resume_classification/r-c.png",
         width: 964,
         height: 751
       }
     },
     links: {
-      github: "https://github.com/BhavyaCodes/url-shortener-ts-backend",
-      live: "https://short-url-three.vercel.app/"
+      github: "https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP",
+      live: "https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP"
     },
     stack: [
-      logos.typescript,
-      logos.react,
-      logos.expressjs,
-      logos.materialui,
-      logos.mongodb,
-      logos.nodejs
+      logos.python
     ],
     technologies: [],
   },
