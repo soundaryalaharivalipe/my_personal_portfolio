@@ -269,7 +269,8 @@ const projects: Projects = {
       live: "https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP"
     },
     stack: [
-      logos.python
+      logos.python,
+      logos.huggingface,
     ],
     technologies: [],
   },
