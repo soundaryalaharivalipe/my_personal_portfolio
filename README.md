@@ -19,7 +19,7 @@ The motive of this project is to showcase my current and future projects.
 - Static Site generated using **Next.js**
 - Modular code for easy maintenance and adding features in the future.
 - **dark/light theme** toggle.
-- **SEO** Appears as 1st or 2nd result when searching Bhavya Tomar on duckduckgo and bing, 1st or 2nd page on google.
+- **SEO** Appears as 1st or 2nd result when searching Soundarya Lahari Valipe on duckduckgo and bing, 1st or 2nd page on google.
 - **Responsive** for all screen sizes
 - Animations added using **react-spring** and **framer-motion**
 
